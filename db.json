@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "buiquangson0409@gmail.com",
+      "password": "$2a$10$JPvtavVK7AvioXC63BzNyu88ECdDghcz1iLH5JNYtgXpPbpmZFtOS",
+      "name": "Bùi quang sơn",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "kbui7810@gmail.com",
+      "password": "$2a$10$vkL80klVP15EHgGWxFI...4ZMjUwcN5kFq4FwB5TUHLKQMxtYqNo6",
+      "name": "Bùi quang sơn",
+      "confirmPassword": "123456",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Bùi quang sơn",
+      "price": "10",
+      "brand": "sàm sỡ",
+      "description": "string",
+      "category": "Trung Quốc",
+      "id": 1
+    },
+    {
+      "name": "Bùi quang sơn",
+      "price": "1000",
+      "brand": "sam sung",
+      "description": "adc",
+      "category": "Trung Quốc",
+      "id": 2
+    }
+  ]
+}
